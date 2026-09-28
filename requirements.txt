@@ -1,0 +1,7 @@
+pymongo
+mysql-connector-python
+scikit-learn
+numpy
+flask
+requests
+markupsafe
